@@ -1,0 +1,26 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+#container{
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  text-align: center;
+  align-items: center;
+}
+button {
+  text-align: center;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
+input {
+  border-radius: 15px;
+  border-width: 5px;
+  border-color: black;
+  text-align: center;
+}
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
